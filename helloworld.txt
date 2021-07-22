@@ -1,1 +1,3 @@
-helloworld
+Fare thee well!
+Hello World
+Quicker Version!
